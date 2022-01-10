@@ -1,7 +1,7 @@
 
 
 <h1 align="center">Hey there 👋, I'm Ravi Raushan</h1>
-<h3 align="center">A full-stack web-developer open to new-Tech</h3>
+<h3 align="center"> I love Coding, Reading and Technology.</h3>
 <div class="align-items-center">
 <a href="https://www.linkedin.com/in/ravi-raushan-kumar-998232192/">
   <img align="left" alt="Ravi Raushan  Linkedin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
@@ -39,7 +39,6 @@
 - 🌱 I’m currently 3rd year student at NSEC .<br>
 - 📖 Coding is my hobby .<br>
 - 🤩 💻 Love competitive programming .<br>
-- 💬 Ask me anythin . Always ready to help u .<br>
-- 📫 Connect with me through linkedin , insta or via mail.<br>
+- 📫 Connect with me through linkedin or via mail.<br>
 <b>EAT , SLEEP , CODE , REPEAT</b>
 
