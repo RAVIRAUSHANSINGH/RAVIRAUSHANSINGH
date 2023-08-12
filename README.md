@@ -37,7 +37,7 @@
 </p>
 
 <img align="right" height="200vw" alt="GIF" src="https://media.giphy.com/media/xTcnSWYZvafyhEACBO/giphy.gif" ><br>
-- 🌱 I’m currently 3rd year student at NSEC .<br>
+- 🌱 I have done my graduation in computer science and engineering from NSEC .<br>
 - 📖 Coding is my hobby .<br>
 - 🤩 💻 Love competitive programming .<br>
 - 📫 Connect with me through linkedin or via mail.<br>
